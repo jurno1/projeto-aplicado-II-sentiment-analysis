@@ -1,7 +1,7 @@
 
 # Projeto Aplicado II - Sentiment Analysis
 
-Repositório gerado com base na Etapa 3 do projeto (código e descrição extraídos do documento do projeto). Veja o PDF original para referência. fileciteturn1file0
+Repositório gerado com base na Etapa 3 do projeto (código e descrição extraídos do documento do projeto). Veja o PDF original para referência.
 
 ## Como usar
 
